@@ -8,3 +8,4 @@ rectangle.style.backgroundColor = color;
 
 greenBtn.addEventListener('click', () => changeColor('green'));
 redBtn.addEventListener('click', () => changeColor('red'));
+resetBtn.addEventListener('click', () => changeColor('black'));

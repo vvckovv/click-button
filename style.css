@@ -41,3 +41,12 @@ button {
     color: #fff;
     border-radius: 10px;
 }
+
+#resetBtn {
+    margin: 2em 2em;
+    padding: 1em;
+    border: none;
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+}
