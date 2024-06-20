@@ -1,0 +1,43 @@
+#box {
+    border: 1px solid #000;
+    width: 10%;
+    padding: 3em 3em;
+    text-align: center;
+}
+
+body {
+    background-color: rgba(96, 68, 168, 0.588);
+    color: #000;
+}
+
+#rectangle {
+    margin: 2em;
+    width: 300px;
+    height: 100px;
+    background-color: black;
+}
+
+button {
+    cursor: pointer;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#greenBtn {
+    margin: 2em 2em;
+    padding: 1em;
+    border: none;
+    background-color: green;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#redBtn {
+    margin: 2em 0;
+    padding: 1em;
+    border: none;
+    background-color: red;
+    color: #fff;
+    border-radius: 10px;
+}
