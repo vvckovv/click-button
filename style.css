@@ -10,11 +10,13 @@ body {
     color: #000;
 }
 
-#rectangle {
+#shape {
     margin: 2em;
     width: 300px;
     height: 100px;
     background-color: black;
+    margin-top: 50px;
+    padding: 50px;
 }
 
 button {
@@ -27,10 +29,12 @@ button {
 #greenBtn {
     margin: 2em 2em;
     padding: 1em;
+    height: 100px;
+    width: 100px;
     border: none;
     background-color: green;
     color: #fff;
-    border-radius: 10px;
+    border-radius: 50%;
 }
 
 #redBtn {
