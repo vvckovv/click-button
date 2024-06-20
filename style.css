@@ -29,12 +29,12 @@ button {
 #greenBtn {
     margin: 2em 2em;
     padding: 1em;
-    height: 100px;
-    width: 100px;
+    /* height: 100px;
+    width: 100px; */
     border: none;
     background-color: green;
     color: #fff;
-    border-radius: 50%;
+    border-radius: 10px;
 }
 
 #redBtn {
